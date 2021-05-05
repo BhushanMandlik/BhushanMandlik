@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhushanMandlik && show_icons=true & title_color=black & icon_color=black & text_color=black & bg_color=white">
+<img src="https://github-readme-stats.vercel.app/api?username=BhushanMandlik&&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=white">
