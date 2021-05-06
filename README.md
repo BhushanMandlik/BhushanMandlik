@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhushanmandlik2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bhushanmandlik2001@gmail.com" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhushan_8411" target="blank"><img align="center" background-color: "white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhushan_8411" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bhushan_8411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhushan_8411" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhushanmandlik2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="bhushanmandlik2001@gmail.com" height="30" width="40" /></a>
 <a href="https://discord.gg/#7866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#7866" height="30" width="40" /></a>
 </p>
