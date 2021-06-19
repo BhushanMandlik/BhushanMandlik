@@ -18,7 +18,7 @@
 <!-- <a href="https://www.linkedin.com/users/Bhushan Mandlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Bhushan Mandlik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhushanmandlik2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="bhushanmandlik2001@gmail.com" height="30" width="40" /></a>
 <a href="https://discord.gg/#7866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="#7866" height="30" width="40" /></a> -->
-<a href="https://solo.to/bhushanmandlik" target="blank"><img align="center" src="https://www.dropbox.com/sh/ezqi9t9q8or5j1r/AAC-6yFXTpWvStzy3NKnLLhpa?dl=0&preview=Solo+Text+Logo+Color.png" alt="solo.to" height="30" width="40" /></a>
+<a href="https://solo.to/bhushanmandlik" target="blank"><img align="center" alt="Profile Links" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
