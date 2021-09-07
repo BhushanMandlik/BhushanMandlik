@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanmandlik&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanmandlik" /> </p>
 
-- 🔭 I’m currently working on **GIZ Project.**
-
 - 🌱 I’m currently learning **Flutter.**
 
 - 👯 I’m looking to collaborate on **opensource projects.**
