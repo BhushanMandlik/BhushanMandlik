@@ -1,13 +1,15 @@
 <h1 align="left">Hi 👋, I'm Bhushan Mandlik</h1>
-<h3 align="left">Passionate about coding and technical expertise to carry out innovative ideas with excellent problem-solving skills and the ability to perform well in a team.</h3>
+<h3 align="left">As a dedicated data engineer, I thrive at the intersection of data and technology, transforming complex data into valuable insights. With 3 years of experience in designing scalable data pipelines, optimizing data workflows, and implementing robust ETL processes, I am passionate about leveraging data-driven solutions to solve business challenges.
+
+My expertise spans across a variety of tools and technologies, including Snowflake, ETL data pipelines, Python, SQL, and AWS. I specialize in architecting efficient data pipelines and ensuring data integrity and security throughout the lifecycle. I am adept at collaborating with cross-functional teams to understand requirements and deliver innovative data solutions that drive strategic initiatives.
+
+Beyond technical skills, I bring strong analytical abilities and a commitment to continuous learning, keeping abreast of industry trends and best practices. I am driven by a curiosity to explore new technologies and methodologies, always striving to optimize data infrastructure and enhance organizational capabilities.
+
+Let's connect to explore opportunities where my skills in data engineering can contribute to achieving your organization's data-driven objectives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanmandlik&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanmandlik" /> </p>
 
-- 🌱 I’m currently learning **Flutter.**
-
-- 👯 I’m looking to collaborate on **opensource projects.**
-
-- 💬 Ask me about **python.**
+- 💬 Ask me about **SNOWFLAKE.**
 
 - 📫 How to reach me **bhushanmandlik2001@gmail.com**
 
