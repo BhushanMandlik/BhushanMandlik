@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bhushan Mandlik</h1>
 <h3 align="left">Databricks Certified Data Engineer with 4.5 years of experience in designing scalable data pipelines, developing optimized ETL/ELT workflows, and implementing end-to-end data engineering solutions. Proficient in Databricks, Snowflake, Python, SQL, PySpark, AWS, Git and Gitlab.
 
+
 Experienced in ensuring data quality, integrity, and governance through robust validation, monitoring, and standardization practices. Skilled in building secure and high-performance data systems across financial services, logistics, and pharmaceutical domains, with strong adherence to industry and regulatory standards.
 
 Effective collaborator in Agile environments, utilizing Jira and Confluence to support structured delivery and cross-functional teamwork. Committed to developing reliable, scalable, and impactful data solutions that enable data-driven decision-making.
